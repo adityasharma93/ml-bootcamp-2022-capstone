@@ -11,7 +11,7 @@ PREREQUISITES
 SETUP
 
 1. Download the code from the github repository
-2. Download the trained models from the (Google Drive link)(https://drive.google.com/drive/folders/1-ypFOl9yeR20DJOljX6TnNYsoLZrHU5m?usp=share_link) and put it in a folder called pretrained
+2. Download the trained models from the Google Drive link(https://drive.google.com/drive/folders/1-ypFOl9yeR20DJOljX6TnNYsoLZrHU5m?usp=share_link) and put it in a folder called pretrained
 3. Put all the videos you want to be annotated into the datasets folder in the directory
 
 
