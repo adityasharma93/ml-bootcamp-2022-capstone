@@ -18,7 +18,7 @@ SETUP
 HOW TO RUN
 
 1. Run the shell_run.sh bash script to spin up a Docker with the application running on it
-2. Open a web browser. If you are running this on your local machine, navigate to http://127.0.0.1:5000/ to see the application has started up. If you are running it on a remote machine, navigate to http://public IP of machine:5000/
+2. Open a web browser. If you are running this on your local machine, navigate to http://127.0.0.1:5000/ to see the application has started up. If you are running it on a remote machine, navigate to http://public_IP_of_machine:5000/
 3. Enter the path of the video in the datasets folder relative to the main directory, and you will see the annotated video path relative to the main directory
 
 ACKNOWLEDGEMENTS
